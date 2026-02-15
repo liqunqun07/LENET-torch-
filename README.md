@@ -2,13 +2,7 @@
 torch构建LENET
 准备数据集（每个有六个类别）
 
-bash   data/
-   ├── train/
-   │   ├── 类别1/  
-   │   └── 类别2/   
-   └── val/
-       ├── 类别1/
-       └── 类别2/
+<img width="130" height="151" alt="image" src="https://github.com/user-attachments/assets/bf01a887-4737-4a3a-9742-f61f4bdc6668" />
 
 
 依赖环境
